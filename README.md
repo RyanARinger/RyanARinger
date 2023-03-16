@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanARinger
 - 📜 B.S. Software Engineering from CSUSM
-- 👀 I’m interested in ... Data structures and algorithms.
+- 👀 I’m interested in ... Machine Learning and Cloud Computing
 - 🌱 I’m currently learning ... Machine Learning and Artificial Intelligence
 - 📫 How to reach me ... RyanARinger1@gmail.com
 
